@@ -1,0 +1,5 @@
+ul,#a,#b
+ {
+  width: 150px;
+  border: 1px solid blue;
+ }
