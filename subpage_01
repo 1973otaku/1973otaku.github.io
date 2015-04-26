@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>page_02</title>
-		<link href="styles/style_02.css" rel="stylesheet" type="text/css">
+		<link href="stylesheets/style_02.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<h1>SUBPAGE_01</h1>
