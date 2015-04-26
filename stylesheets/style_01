@@ -1,0 +1,13 @@
+p 
+ {
+  font-size: 14px;
+  width: 400px;
+ }
+html
+ {
+  font-size: 10px;
+  font-family: 'Shadows Into Light', cursive;
+  text-align: left;
+  background-color: #85EAFF;
+  text-shadow: 3px -2px 6px purple;
+ }
