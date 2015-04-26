@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<link href="styles/style_01.css" rel="stylesheet" type="text/css">
-		<link href="styles/style_02.css" rel="stylesheet" type="text/css">
+		<link href="stylesheets/style_01.css" rel="stylesheet" type="text/css">
+		<link href="stylesheets/style_02.css" rel="stylesheet" type="text/css">
 		<meta charset="utf-8">
 		<title>css example</title>
 	</head>
