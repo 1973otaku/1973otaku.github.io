@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link href="styles/style_01.css" rel="stylesheet" type="text/css">
+		<link href="styles/style_02.css" rel="stylesheet" type="text/css">
+		<meta charset="utf-8">
+		<title>css example</title>
+	</head>
+	<body>
+		<p style="font-size: 36px">
+			Hello, this is just a plain 
+			boring site to test all the 
+			different things, you can 
+			do with css.
+		</p>
+		<ul>
+			<li><a href="index.html">main_page</a></li>
+			<li><a href="subpage_01.html">SUBPAGE_01</a>(Anime)</li>
+		</ul>
+	</body>
+</html>
